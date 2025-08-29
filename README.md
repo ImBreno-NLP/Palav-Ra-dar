@@ -1,4 +1,4 @@
-# Palav-Ra-dar
+# Palav(Ra)dar
 Palav(Ra)dar is a Python script that scans PDF files to detect words written in a different language from the main text.
 
 The script works by:
