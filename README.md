@@ -29,6 +29,9 @@ PyMuPDF
 
 wordfreq
 
-Breno da Costa Caricchio Aguiar
-Linguistics Student at Federal University of São Carlos (UFSCar)
-Researcher at NILC-USP(POETISA) (Interinstitutional Center for Computational Linguistics)
+"Language is the source of misunderstandings." - Antoine de Saint-Exupéry
+
+Breno Aguiar
+Linguistics/Computational Linguistics Researcher | Corpus Linguistics Specialist | Academic Tutor
+
+
