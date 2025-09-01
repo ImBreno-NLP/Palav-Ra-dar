@@ -55,7 +55,7 @@ The script will analyze the text inside the PDF and highlight - return - words t
 
 ---
 
-** License
+## License
 
 MIT License
 
